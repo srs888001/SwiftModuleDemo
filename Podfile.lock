@@ -1,0 +1,20 @@
+PODS:
+  - Swinject (2.7.1)
+  - URLNavigator (2.3.0)
+
+DEPENDENCIES:
+  - Swinject
+  - URLNavigator
+
+SPEC REPOS:
+  trunk:
+    - Swinject
+    - URLNavigator
+
+SPEC CHECKSUMS:
+  Swinject: ddf78b8486dd9b71a667b852cad919ab4484478e
+  URLNavigator: 2593c0e2d293732ec5c44503cf54dceba1a68085
+
+PODFILE CHECKSUM: 1bb47c8376adca6be4174e1f1de3aa46902a2ec9
+
+COCOAPODS: 1.9.3
